@@ -25,7 +25,7 @@ def main():
     # Abrir o Aplicativo desktop Bank
     title_bank = "Alex Diogo - Bank"
     opnDesk.Open_Application(desktop_bot, 
-                             "E:\\RPA\\BotCity\\Projetos\\bankWebDesktop\\resources\\Banco.exe", 
+                             "E:\RPA\DRIVERS\Banco.exe", 
                              title_bank, Backend.WIN_32)
     
     #instanciar o Bank
